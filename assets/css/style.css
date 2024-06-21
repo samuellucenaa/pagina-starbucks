@@ -65,6 +65,7 @@ header .line{
 }
 
 .banner{
+    height: 600px;
     background-image: url(../images/bg.jpg);
     background-position: center;
     background-size: cover;
@@ -202,4 +203,22 @@ header .line{
     background-size: cover;
     background-position: center;
     height: 450px;
+}
+
+.area3{
+}
+
+.area3-left{
+    background-image: url('../images/bg2.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.area3-left h1{
+    font-weight: 800;
+    font-size: 35px;
+}
+
+.area3-text{
+    margin-top: 30px;
 }
