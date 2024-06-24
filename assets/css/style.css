@@ -290,3 +290,17 @@ header .line{
     background-size: cover;
     background-position: right;
 }
+
+.area5{
+    background-image: url('../images/bg4.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+}
+
+footer{
+    text-align: center;
+    height: 25px;
+    color: white;
+    background-color: gray;
+}
